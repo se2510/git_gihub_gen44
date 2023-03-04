@@ -84,6 +84,7 @@ Gracias a su legado como el héroe de Hyrule, cada encarnación de Link recibe d
 
 *Anoten aquí sus nombres (en la parte blanca, favor de no eliminar las 5 líneas verticales |)
 
+Imparte: Samuel Garrido
 
 # Calificaciones 🥇🥈🥉
 |**N°**|**Nombre**|**Tarea**|**Proyecto**|**Extra**|**Calificación**|
@@ -100,6 +101,7 @@ Gracias a su legado como el héroe de Hyrule, cada encarnación de Link recibe d
 |11|                         |||||
 |12|                         |||||
 |13| González García David Elias                        |||||
+|13|                         |||||
 |14|                         |||||
 |15|                         |||||
 |16|                         |||||
@@ -123,4 +125,7 @@ Gracias a su legado como el héroe de Hyrule, cada encarnación de Link recibe d
 |34|                         |||||
 |35|                         |||||
 |36|                         |||||
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9dc15f7df8c97cf0d1c7cbcc62dcb97a87bba1eb
