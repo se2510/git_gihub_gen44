@@ -125,7 +125,3 @@ Imparte: Samuel Garrido
 |34|                         |||||
 |35|                         |||||
 |36|                         |||||
-<<<<<<< HEAD
-
-=======
->>>>>>> 9dc15f7df8c97cf0d1c7cbcc62dcb97a87bba1eb
